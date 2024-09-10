@@ -5,7 +5,7 @@
 -->
 
 - 🌱 Atualmente estou estudando na FATEC Araras "Antônio Brambila" e estou no meu 2º semestre;
-- 🔭 Estou atualmente na busca de estágio ou primeira vaga na área, ou relacionada com ela;
+- 🔭 Estagiário na VIMAN Sistemas;
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Raphael0305&show_icons=true&theme=radical">
