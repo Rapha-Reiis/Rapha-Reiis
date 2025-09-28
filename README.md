@@ -4,7 +4,7 @@
 **Raphael0305/Raphael0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Atualmente estou estudando na FATEC Araras "Antônio Brambila" e estou no meu 3º semestre;
+- 🌱 Atualmente estou estudando na FATEC Araras "Antônio Brambila" e estou no meu 4º semestre;
 - 🔭 Desenvolvedor na VIMAN Sistemas;
 
 <div>
